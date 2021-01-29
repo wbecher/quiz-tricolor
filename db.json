@@ -1,0 +1,47 @@
+{
+  "bg": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/b98a8e81289531.5cfabc3a4cf84.png",
+  "title": "Quiz Tricolor #AluraQuiz",
+  "description": "Um quiz tri legal sobre o tricolor!",
+  "questions": [
+    {
+      "image": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/11/libertadores-1-601x338.jpg",
+      "title": "Quantas libertadores o Grêmio venceu na sua história?",
+      "description": "Pergunta fácil hein!?",
+      "answer": 3,
+      "alternatives": [
+        "Nenhuma",
+        "Uma",
+        "Duas",
+        "Três"
+      ]
+    },
+    {
+      "image": "https://img.estadao.com.br/resources/jpg/8/1/1511969461918.jpg",
+      "title": "Quantos gols Renato Gaúcho fez na final do mundial em 1983?",
+      "description": "Essa continua simples...",
+      "answer": 2,
+      "alternatives": [
+        "Nenhum",
+        "Um",
+        "Dois",
+        "Três (um deles contra)"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "link": "https://www.schemecolor.com/gremio-foot-ball-porto-alegrense.php",
+    "colors": {
+      "primary": "#0D80BF",
+      "secondary": "#0D80BF",
+      "mainBg": "#1F1A17",
+      "contrastText": "#FFFFFF",
+      "wrong": "#ABAAAA",
+      "success": "#F8C300"
+    },
+    "borderRadius": "4px"
+  }
+}
